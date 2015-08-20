@@ -1,0 +1,67 @@
+body{
+	background-image: url();
+}
+.thumbnails img{
+	max-width: 20px;
+	max-height: 20px;
+}
+.nav .dropdown-menu li {
+}
+.glyphicon-heart{
+	border-style:none;
+}
+.navbar-header img{
+	max-width: 40px;
+	max-height: 40px;
+}
+.mytoggle{
+	margin-top: 15px;
+}
+body { 
+	padding-top: 10px; 
+}
+#searchbar{
+	padding-top: 15px;
+	margin-top: 5px;
+}
+.mysignup{
+	margin-top: 0px;
+}
+.input-group{
+	padding-bottom: 10px;
+}
+.panel{
+	min-height: 900px;
+
+}
+.panel .thumbnail img{
+	max-width: 200px;
+	max-height: 200px;
+}
+.panel .thumbnail h3{
+	margin-top:20px;
+	margin:auto;
+	text-align: center;
+}
+.panel .thumbnail p{
+	
+	margin:auto;
+	text-align: center;
+}
+.panel .thumbnail .btn{
+	margin-left: 100px;
+	margin-left: 100px;
+
+	
+	text-align: center;
+}
+.profilepicture img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+margin-bottom: 20px;
+margin-top: 20px;
+max-width:800px;	
+max-height: 800px;
+
+}
