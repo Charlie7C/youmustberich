@@ -65,3 +65,9 @@ max-width:800px;
 max-height: 800px;
 
 }
+.centered {
+ width: 100px;
+  height: 100px;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
